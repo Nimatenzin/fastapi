@@ -1,0 +1,11 @@
+address:
+  city: San Diego
+  state: CA
+  streetAddress: '101'
+age: 28
+firstName: Joe
+gender: male
+lastName: Jackson
+phoneNumbers:
+- number: '7349282382'
+  type: home
